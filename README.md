@@ -1,2 +1,12 @@
-# Awesome-Incident-Response
-Curated list of incident response frameworks, playbooks and toolsets
+# Awesome-Incident-Plans
+A curated list of incident response planning resources focusing on alert managment, incident handling, playbooks and runbooks.
+
+# Frameworks
+
+# Playbooks
+
+# Detailed IR Guidance
+
+# Tooling
+
+# Training
